@@ -1,0 +1,8 @@
+# dsh-qnav bundle for DeepSeek Harness (dsh).
+# Inserted into the profile's composition when this bundle is installed
+# (`dsh plugin --profile web add dsh-qnav`). The browser half
+# (client.js) injects the question-navigation rail into the conversation
+# page; the host half is a no-op — the feature is purely client-side.
+- insert:
+    - id: question-nav
+      name: dsh-qnav

@@ -1,0 +1,12 @@
+{
+  "name": "dsh-question-nav",
+  "description": "DSH web plugin: a slim right-edge question-navigation rail for long conversations — click a tick to jump to that user turn",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-question-nav",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}
