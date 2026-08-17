@@ -1,10 +1,10 @@
 # dsh-qnav
 
-<div align="center">
+<p align="center">
 
 **English** · [中文](README.zh-CN.md) · [日本語](README.ja-JP.md) · [Español](README.es.md) · [Français](README.fr.md)
 
-</div>
+</p>
 
 ---
 
